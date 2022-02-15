@@ -6,9 +6,9 @@
 
 <div>
 <a href="https://github.com/fabiolasoufer">
-<img height="100cm" src="https://github-readme-stats.vercel.app/api?username=fabiolasoufer&theme=omni&show_icons=true"/>
+<img height="130cm" src="https://github-readme-stats.vercel.app/api?username=fabiolasoufer&theme=omni&show_icons=true"/>
 
-<img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolasoufer&layout=compact&langs_count=16&theme=omni"/>
+<img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolasoufer&layout=compact&langs_count=16&theme=omni"/>
 </div>
   
 <div>
