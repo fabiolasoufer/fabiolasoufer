@@ -1,8 +1,16 @@
 ### Olá! Eu sou a Fabíola Souza! 👋
+### Yo! How’s it going? 
+
+<img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" align="left" alt="imagem gupy camis" width="250"/>
 
 - 🔭 Atualmente estou participando do bootcamp: Generation Brasil
 - 🌱 Estudando: Java | Banco de Dados MYSQL
-- 😄 Pronouns: Ela | She | Ella
+- 😄 Pronomess: Ela | She | Ella
+
+- 🔭 I am currently participating in the bootcamp: Generation Brasil
+- 🌱 Studying: Java | MYSQL Database
+
+<hr>
 
 <div>
 <a href="https://github.com/fabiolasoufer">
@@ -11,10 +19,8 @@
 <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolasoufer&layout=compact&langs_count=16&theme=omni"/>
 </div>
   
-<div>
-<img height="100cm" align="right" alt="fabi" src="https://media.giphy.com/media/01QuZw9yXBmueUN3dq/giphy.gif"/>
-</div>
-
+<hr>
+  
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block; padding-right:100">
@@ -24,6 +30,8 @@
 <a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=width="50" height="50"/></a> 
 <a href="https://spring.io/" target="_blank" title="SpringBoot"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
 </div>
+
+<hr>
 
 <div>
 <h3 align="left">Contact:</h3>
