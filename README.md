@@ -24,3 +24,9 @@
 <a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=width="50" height="50"/></a> 
 <a href="https://spring.io/" target="_blank" title="SpringBoot"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
 </div>
+
+<div>
+<h3 align="left">Contact:</h3>
+<a href="https://www.linkedin.com/in/fabiolasoufer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:fabiolasoufer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
