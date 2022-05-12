@@ -1,28 +1,27 @@
 ### Olá! Eu sou a Fabíola Souza! 👋
-### Desenvolvedora Web FullStack Jr. 👩‍💻 
+
+- 👩‍💻 Desenvolvedora Web Full Stack Jr.
+- 🔭 Lifelong learning | Estar em constante aprendizado!
+- 🌱 Estudando: Java | Spring | JavaScript | HTML5 | CSS3 | Angular | React
 
 
-<img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" align="left" alt="imagem gupy camis" width="250"/>
-
-- 🔭 Atualmente estou formada no bootcamp: Generation Brasil
-- 🌱 Estudando: Java | Spring Framework | Angular Framework
-- 💻 Open to Work
-- 😄 Pronomess: Ela | She | Ella
-
-- ✨ Você é o seu único limite!
 
 <hr>
 
-<div>
+<div align="center">
 <a href="https://github.com/fabiolasoufer">
-<img height="130cm" src="https://github-readme-stats.vercel.app/api?username=fabiolasoufer&theme=omni&show_icons=true"/>
-
-<img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolasoufer&layout=compact&langs_count=16&theme=omni"/>
+<img height="143em" src="https://github-readme-stats.vercel.app/api?username=fabiolasoufer&theme=omni&show_icons=true"/>
+<img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolasoufer&layout=compact&langs_count=16&theme=omni"/>
+</div>
+  
+<hr>
+<div align="center">
+<img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="imagem gupy camis" width="350"/>
 </div>
   
 <hr>
   
-</div>
+<div align="center">
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block; padding-right:100">
 <a href="https://www.java.com" target="_blank" title="Java"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a> 
@@ -40,7 +39,7 @@
 </div>
 <hr>
 
-<div>
+<div align="center">
 <h3 align="left">Contact:</h3>
 <a href="https://www.linkedin.com/in/fabiolasoufer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:fabiolasoufer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
