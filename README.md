@@ -1,11 +1,11 @@
-### Hi! I'm Fabíola Souza! 👋
+#### Hi! I'm Fabíola Souza! 👋
 
 - 👩‍💻 Software Developer
-- 🔭 Lifelong learning
-- 🌱 Studying: Java | Spring | JavaScript | HTML5 | CSS3 | Angular | React
+- 🔭 Lifelong Learning
+- 🌱 Studying: Computer Science | Java
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/97403936/172365573-f0a01ba6-4e67-42f8-b08d-52ce7fd01475.gif" alt="gif fabiola" width="400">
+<img src="https://user-images.githubusercontent.com/97403936/172365573-f0a01ba6-4e67-42f8-b08d-52ce7fd01475.gif" alt="gif fabiola" width="500">
 </div>
 
 <hr>
@@ -31,7 +31,7 @@
 <hr>
 
 <div align="center">
-<h3 align="left">Contact:</h3>
+<h3 align="left">Contact me:</h3>
 <a href="https://www.linkedin.com/in/fabiolasoufer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:fabiolasoufer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
