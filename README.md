@@ -2,7 +2,7 @@
 
 - 👩‍💻 Software Developer
 - 🔭 Lifelong Learning
-- 🌱 Studying: Computer Science | Java
+- 🌱 Studying: Computer Science | Back-End
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/97403936/172365573-f0a01ba6-4e67-42f8-b08d-52ce7fd01475.gif" alt="gif fabiola" width="500">
